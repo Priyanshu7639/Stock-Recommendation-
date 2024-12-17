@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+keras
+tweepy
+requests
+prophet
+yfinance
+streamlit==1.18.0
+pandas_datareader
+Pillow
